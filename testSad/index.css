@@ -1,0 +1,21 @@
+.stars img{
+    width: 75px;
+    }
+    
+.stars img.active{
+    background-color:gold;
+}  
+
+
+.widget {
+ width:200px;
+ margin: 20px auto;
+ padding:30px;
+ border: 1px solid grey
+}
+
+.gallery img{
+    height: 150px;
+}
+
+
